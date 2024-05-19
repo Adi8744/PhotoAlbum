@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/PhotoAlbum/static/css/main.8d6fbf48.css",
+    "main.js": "/PhotoAlbum/static/js/main.e088f1fe.js",
+    "static/media/album_3.jpg": "/PhotoAlbum/static/media/album_3.e2ed5fb7b943aad2252c.jpg",
+    "static/media/error.png": "/PhotoAlbum/static/media/error.f794c0ef17e57bc3cc2b.png",
+    "static/media/logo_4.png": "/PhotoAlbum/static/media/logo_4.3155123b6f6c5f703c73.png",
+    "index.html": "/PhotoAlbum/index.html",
+    "main.8d6fbf48.css.map": "/PhotoAlbum/static/css/main.8d6fbf48.css.map",
+    "main.e088f1fe.js.map": "/PhotoAlbum/static/js/main.e088f1fe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d6fbf48.css",
+    "static/js/main.e088f1fe.js"
+  ]
+}
